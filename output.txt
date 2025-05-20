@@ -1,0 +1,41 @@
+First Name: Ava
+Middle Initial: m
+Last Name: Smith
+Grade: 8
+IEP: true
+
+First Name: mya
+Middle Initial: 
+Last Name: do
+Grade: 9
+IEP: false
+
+Invalid input data: jack m ryan 11
+
+First Name: yane
+Middle Initial: y
+Last Name: yane
+Grade: 10
+IEP: false
+
+First Name: BIG
+Middle Initial: 
+Last Name: JOHN
+Grade: 12
+IEP: false
+
+First Name: Hello
+Middle Initial: 
+Last Name: world
+Grade: 9
+IEP: false
+
+First Name: neo
+Middle Initial: 
+Last Name: sign
+Grade: 12
+IEP: true
+
+Invalid input format
+
+Number of students: 7
